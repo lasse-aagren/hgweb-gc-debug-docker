@@ -1,0 +1,8 @@
+[extensions]
+largefiles=
+
+[largefiles]
+usercache=/hgweb/largefiles
+
+[ui]
+username=demouser
